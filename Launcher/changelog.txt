@@ -1,0 +1,3 @@
+[+] Aggiunta
+[-] Rimosso
+[i] Migliorato
