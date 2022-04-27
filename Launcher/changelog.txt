@@ -2,4 +2,3 @@
 [-] Rimosso
 [i] Migliorato
 
-[+] Aggiunta la sbura
